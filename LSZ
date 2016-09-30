@@ -351,7 +351,7 @@ STANDLICHT_ALS_NSL_RECHTS
 SL_VO_ANSTEUERUNG
 	aktiv
 BFD3_ASC_AKTIV
-	nicht_aktiv
+	aktiv
 LWR_VORZEICHEN
 	nicht_aktiv
 KENNLINIE_LWR_SENSOR_VO
@@ -441,13 +441,13 @@ BFD_BLINK_AUSZEIT
 BLST1_BLST3
 	nicht_aktiv
 PIN5_10_BFD
-	nicht_aktiv
+	aktiv
 HEIMLEUCHTEN_SL3_H
 	nicht_aktiv
 PIN29_30_BL_NSL
 	nicht_aktiv
 BFD_ST3_ON
-	nicht_aktiv
+	aktiv
 PIN_29_30_AHM_ERS_FU_GESP
 	aktiv
 PIN_5_10_AHM_ERS_FU_GESP
@@ -503,7 +503,7 @@ GEDIMMT_BLK_BEGRENZ_LICHT
 BLK_DIMMEN
 	aktiv
 BFD_ON
-	nicht_aktiv
+	aktiv
 BFD_MINDEST_GESCHW
 	wert_02
 BFD_STUFE_2_VERZOEG
