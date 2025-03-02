@@ -38,7 +38,7 @@ CHECKCTRLTAB_SBSR
 COD_LL_RL
 	linkslenker
 ERKENNE_SBE1_MATTE_RE
-	aktiv
+	nicht_aktiv
 GURTSCHLOSS_RE
 	abgesteckt
 FRONT_VO_RE_STUFE1
@@ -57,6 +57,10 @@ KNIESCHUTZ_RE
 	abgesteckt
 KNIESCHUTZ_RE_Z
 	vom_ss_nicht_beeinflusst
+ALGOPARAM_SBSR_EAM
+	wert_03
 ALGOPARAM_SBSR_EAM_F
 	wert_02
+	wert_03
+ALGOPARAM_SBSR_EAM_F_1
 	wert_03
