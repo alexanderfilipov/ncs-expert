@@ -1,0 +1,62 @@
+HALLSCH_EIN_GURT_RE
+	hall_ein_gurt_an
+STROMGR_KS_HSCH_ZU_RE
+	wert_01
+STROMGR_AUF_HSCH_UB_RE
+	wert_01
+KINDERSI_SBEX_RECHTS
+	nicht_aktiv
+SBEY_HINTEN_RECHTS
+	nicht_aktiv
+STROMG_UNP_HSCH_ZU_RE
+	wert_01
+STROMGR_UNP_HSCH_AUF_RE
+	wert_01
+INDEXTAB_FC_SBSR
+	wert_01
+SBK_Z
+	vom_ss_nicht_beeinflusst
+SBK
+	aktiv
+GURTSTRAMMER_VO_RE
+	aktiv
+BATT_LTG_DIAG
+	aktiv
+BATT_V_SEND
+	wert_01
+BATT_V_FIRE
+	wert_01
+GURTSTRAMMER_VO_RE_Z
+	vom_ss_nicht_beeinflusst
+BATT_V_NORM
+	wert_01
+BATT_OFFSET_MAX
+	wert_01
+CHECKCTRLTAB_SBSR
+	wert_01
+	wert_02
+COD_LL_RL
+	linkslenker
+ERKENNE_SBE1_MATTE_RE
+	aktiv
+GURTSCHLOSS_RE
+	abgesteckt
+FRONT_VO_RE_STUFE1
+	aktiv
+FRONT_VO_RE_STUFE2
+	aktiv
+FRONT_VO_RE_STUFE1_Z
+	vom_ss_beeinflusst
+FRONT_VO_RE_STUFE2_Z
+	vom_ss_beeinflusst
+THORAX_VO_RE
+	aktiv
+THORAX_VO_RE_Z
+	vom_ss_beeinflusst
+KNIESCHUTZ_RE
+	abgesteckt
+KNIESCHUTZ_RE_Z
+	vom_ss_nicht_beeinflusst
+ALGOPARAM_SBSR_EAM_F
+	wert_02
+	wert_03
